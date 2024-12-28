@@ -1,0 +1,48 @@
+["ephedrine"] = {
+    name = "ephedrine",
+    label = "Ephedrine",
+    weight = 200,
+    type = "item",
+    image = "ephedrine.png", -- Make sure to add an image file with this name in the inventory's image folder
+    unique = false,
+    useable = false,
+    shouldClose = true,
+    combinable = nil,
+    description = "Used in meth production",
+},
+["acetone"] = {
+    name = "acetone",
+    label = "Acetone",
+    weight = 150,
+    type = "item",
+    image = "acetone.png", -- Make sure to add an image file with this name in the inventory's image folder
+    unique = false,
+    useable = false,
+    shouldClose = true,
+    combinable = nil,
+    description = "Used in meth production",
+},
+["chemicals"] = {
+    name = "chemicals",
+    label = "Chemicals",
+    weight = 300,
+    type = "item",
+    image = "chemicals.png", -- Make sure to add an image file with this name in the inventory's image folder
+    unique = false,
+    useable = false,
+    shouldClose = true,
+    combinable = nil,
+    description = "Used in meth production",
+},
+["meth_bag"] = {
+    name = "meth_bag",
+    label = "Meth Bag",
+    weight = 500,
+    type = "item",
+    image = "meth_bag.png", -- Make sure to add an image file with this name in the inventory's image folder
+    unique = false,
+    useable = false,
+    shouldClose = true,
+    combinable = nil,
+    description = "The final product of meth production",
+},
